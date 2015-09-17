@@ -1,5 +1,5 @@
 import java.util.Random;
-public class RandomSentence {
+public class SentenceGenerator {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		String[] substantiv = {"gubben", "presidenten", "hela tjocka släkten", "mjölby kommun"}; //Bestämd form eller egennamn.
