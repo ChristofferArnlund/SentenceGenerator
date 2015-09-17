@@ -6,7 +6,11 @@ public class SentenceGenerator {
 			"gubben"
 			, "presidenten"
 			, "hela tjocka släkten"
-			, "mjölby kommun"
+			, "Mjölby kommun"
+			, "60% av Tysklands befolkning"
+			, "Bamse"
+			, "Krakel Spektakel"
+			, "Farbror Frej"
 		}; //Bestämd form eller egennamn.
 		String[] verb = {
 			"besegrade, under första världskriget"
