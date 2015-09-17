@@ -8,6 +8,7 @@ Prova att forka det här repot och gör några ändringar. Här är några förs
 * Support för andra meningsmönster än <Substantiv><Verb><Substantiv>
 * Adjektiv!
 * Fler ord!
+* Ordentlig paketstruktur.
 
 lägg gärna till fler förslag på den här listan.
 
