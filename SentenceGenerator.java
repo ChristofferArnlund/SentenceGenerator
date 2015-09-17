@@ -2,8 +2,19 @@ import java.util.Random;
 public class SentenceGenerator {
 	public static void main(String[] args) {
 		Random rand = new Random();
-		String[] substantiv = {"gubben", "presidenten", "hela tjocka släkten", "mjölby kommun"}; //Bestämd form eller egennamn.
-		String[] verb = {"besegrade, under första världskriget", "var en gång i tiden", "har förråt"}; //Dåtidsform.
+		String[] substantiv = {
+			"gubben"
+			, "presidenten"
+			, "hela tjocka släkten"
+			, "mjölby kommun"
+		}; //Bestämd form eller egennamn.
+		String[] verb = {
+			"besegrade, under första världskriget"
+			, "var en gång i tiden"
+			, "har förråt"
+			, "åt upp"
+			, "slaktade"
+		}; //Dåtidsform.
 
 		String sub1 = substantiv[rand.nextInt(substantiv.length)];
 		String v = verb[rand.nextInt(verb.length)];
