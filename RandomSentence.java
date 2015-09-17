@@ -2,8 +2,8 @@ import java.util.Random;
 public class RandomSentence {
 	public static void main(String[] args) {
 		Random rand = new Random();
-		String[] substantiv = {"gubben", "presidenten", "hela tjocka släkten", "mjölby kommun"};
-		String[] verb = {"har ett problem med", "är i hemlighet", "har förråt"};
+		String[] substantiv = {"gubben", "presidenten", "hela tjocka släkten", "mjölby kommun"}; //Bestämd form eller egennamn.
+		String[] verb = {"har ett problem med", "är i hemlighet", "har förråt"}; //Dåtidsform.
 
 		String sub1 = substantiv[rand.nextInt(substantiv.length)];
 		String v = verb[rand.nextInt(verb.length)];
