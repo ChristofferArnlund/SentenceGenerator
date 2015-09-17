@@ -12,6 +12,7 @@ public class SentenceGenerator {
 			, "Krakel Spektakel"
 			, "Farbror Frej"
 			, "Studenten"
+			, "Oskar"
 		}; //Bestämd form eller egennamn.
 		String[] verb = {
 			"besegrade, under första världskriget"
